@@ -1,5 +1,4 @@
-hkkhjh
-hh
+
 {
   "buildCommand": "npm run generate",
   "devCommand": "npm run dev",
